@@ -9,7 +9,7 @@ A lightweight studying/working app built with Python + Tkinter for tracking focu
 - Stores study session names alongside all settings in .JSON format
 
 ## Download
-Latest version from [Releases page](insert_release_location). No Python required, just unzip and run "FocusTracker.exe".
+Latest version from [Releases page](releases/focustracker). No Python required, just unzip and run "FocusTracker.exe".
 
 ## Data Analysis
 - CSV allows for easy exporting to Excel or any software of your choice
